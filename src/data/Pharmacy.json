@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 960,
+        "pharmacyName": "Gishen Pharmacy",
+        "phoneMumber": "0911222442",
+        "location": "Around Kilinto ",
+        "openingHr": "12:00",
+        "closingHr": "*:00",
+        "pharmacyType": "Private",
+        "email": "Gishen.2@gmail.com",
+        "description": "Open 24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.881502715018886,
+          38.81616997492108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 123,
+        "pharmacyName": "Tulidimtu Pharmacy",
+        "phoneMumber": "099090903",
+        "location": "Around Tulidimtu ",
+        "openingHr": "12:00",
+        "closingHr": "8:00",
+        "pharmacyType": "Private",
+        "email": "tulidimtu.2@gmail.com",
+        "description": "Advil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.88960909373171,
+          38.826969727769026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 1312,
+        "pharmacyName": "Tirunesh Beijing Pharmacy",
+        "phoneMumber": "09112344556",
+        "location": "Around Kilinto ",
+        "openingHr": "12:00",
+        "closingHr": "8:00",
+        "pharmacyType": "Private",
+        "email": "Tirunesh.2@gmail.com",
+        "description": "Advil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.875329068426604,
+          38.8207443534598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 2312,
+        "pharmacyName": "Selam Pharmacy",
+        "phoneMumber": "0924244556",
+        "location": "Around Koye ",
+        "openingHr": "12:00",
+        "closingHr": "8:00",
+        "pharmacyType": "Private",
+        "email": "Selam.2@gmail.com",
+        "description": "Advil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.897789410959893,
+          38.81495282556564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 1222,
+        "pharmacyName": "Kenema Pharmacy",
+        "phoneMumber": "092344556",
+        "location": "Around Kilinto ",
+        "openingHr": "12:00",
+        "closingHr": "*:00",
+        "pharmacyType": "Kenema",
+        "email": "fkfks.2@gmail.com",
+        "description": "Advil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.893784007043639,
+          38.802272427357124
+        ]
+      }
+    }
+  ]
+}
